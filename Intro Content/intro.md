@@ -1,6 +1,15 @@
-# We
+# We!Masomo
+We!Masomo is an initiative that aims to empower young women between the age of 15 -25 by providing sexual health information in rural regions, focusing on menstrual health and contraception products.
+
+![WeMasomo Logo](https://www.wemasomo.com/img/logo-text.png)
 
 ## Prevention
+
+* Condoms(Male)
+* Condoms(Female)
+* Emergency Pill
+* Coil
+* Injection
 
 ### Condoms(Male)
 
@@ -802,5 +811,4 @@ Yes, providing accurate information and answering questions honestly helps adole
 
 Q6: Did you know that providing additional resources and support is crucial for both parents and child?
 Absolutely! Offering reliable resources, such as reputable websites, books, and helplines, provides additional support and guidance for parents and young people seeking more information or professional assistance.
-
 
