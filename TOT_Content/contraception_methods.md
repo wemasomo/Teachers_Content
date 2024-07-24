@@ -57,17 +57,17 @@ You should be confident about using them or asking your partner to use them.
 * __Description__: The pill is a small, round tablet that releases a progestogen hormone, which helps prevent pregnancy.
 * __Benefits__: It may alleviate premenstrual symptoms and painful periods.
 
-# Usage:
+## Usage:
 * __Daily Intake__: Take one pill daily at the same time each day. Each pack contains 28 pills with no break between packs.
 * __Effectiveness__: Immediate protection against pregnancy if started on the first day of your period each month.
 * __Consistency__: Missing pills or taking them late can increase the risk of pregnancy. Long-lasting contraception options are available for those who prefer alternatives.
 
-# Side Effects:
+## Side Effects:
 
 * __Common__: Rashes, breast tenderness, nausea/vomiting, stomach upset, weight changes, headaches, and mood changes may occur. These typically subside after a few months of use.
 * __Serious__: Serious side effects are rare.
 
-# Important Notes:
+## Important Notes:
 * __Fertility__: Fertility returns to normal once pill usage is stopped, allowing pregnancy.
 * __STI Protection__: The pill does not protect against STIs. Concurrent use of condoms is advised for STI protection.
 
@@ -78,12 +78,12 @@ You should be confident about using them or asking your partner to use them.
 * __Types__: Two types of hormonal emergency contraception are available: one to be taken within three days and another within five days of unprotected sex.
 * __Availability__: Widely accessible at pharmacies without prescription.
 
-# Usage:
+## Usage:
 * __Timing__: The effectiveness of emergency contraception depends significantly on how soon it is taken after unprotected sex. It is most effective when taken as soon as possible after intercourse and within 72 hours (3 days) for most types, though some formulations may be effective up to 5 days afterward.
 * __Handling Vomiting__: Seek medical advice if vomiting occurs within two hours of taking the pill, as another dose may be needed.
 * __How It Works__: It works by preventing or delaying ovulation (release of an egg from the ovaries).
 
-# Side Effects:
+## Side Effects:
 * __Common__: May cause nausea, dizziness, tiredness, headaches, tender breasts, abdominal pain, and irregular periods.
 * __Impact on Menstrual Cycle__: Repeated use may disrupt regular menstrual cycles.
 
@@ -101,11 +101,11 @@ You should be confident about using them or asking your partner to use them.
 
 * __Description__: A T-shaped plastic device releasing Levonorgestrel, a progestin hormone, in the womb.
 
-# How To Use:
+## How To Use:
 * __Suitability__: Most women can use the IUD; suitability is assessed based on family and medical history.
 * __Not Suitable For__: Women with heavy periods, copper allergies, pelvic infections, unexplained vaginal bleeding, or fibroids.
 
-# Side Effects:
+## Side Effects:
 
 * __Common__: Cramps, spotting/bleeding, heavier or more painful periods (often temporary).
 * __Temporary Irregularities__: Irregular bleeding for up to six months.
@@ -124,7 +124,7 @@ Benefits: Reduces heavy or painful periods without daily pill intake.
 
 * __Duration__: Effective for up to 13 weeks (duration depends on the type) and administered by a healthcare provider.
 
-# Side Effects:
+## Side Effects:
 * __Return to Normal__: Fertility and periods may take up to a year to normalize after discontinuation.
 * __Common Side Effects__: Weight gain, headaches, mood swings, breast tenderness, irregular bleeding.
 
@@ -140,7 +140,7 @@ Benefits: Reduces heavy or painful periods without daily pill intake.
 * __Description__: Natural contraception where the man withdraws before ejaculation to prevent sperm entering the vagina.
 * __Effectiveness__: Not a reliable method due to pre-ejaculate fluid potentially containing sperm.
 
-# How To Use:
+## How To Use:
 * __Execution__: Requires precise timing to withdraw before ejaculation.
 * __Considerations__: Ejaculation's unpredictability and pre-ejaculate's sperm content affect reliability.
 
