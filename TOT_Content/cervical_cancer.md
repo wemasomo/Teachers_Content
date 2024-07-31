@@ -81,7 +81,7 @@ What is the primary cause of cervical cancer?
 - [(X)] Human papillomavirus (HPV)
 - [( )] Herpes simplex virus (HSV)
 
-### .
+### Question1
 Women living with HIV are how many times more likely to develop cervical cancer compared to women without HIV?
 
 - [( )] 3 times
@@ -89,7 +89,7 @@ Women living with HIV are how many times more likely to develop cervical cancer 
 - [( )] 9 times
 - [( )] 12 times
 
-### .
+### Question2
 What percentage of cervical cancers are caused by persistent HPV infection of the cervix?
 
 - [( )] 75%
@@ -97,7 +97,7 @@ What percentage of cervical cancers are caused by persistent HPV infection of th
 - [(X)] 95%
 - [( )] 100%
 
-### .
+### Question3
 At what age is HPV vaccination highly recommended to prevent cervical cancer?
 
 - [( )] 5-8 years
@@ -105,7 +105,7 @@ At what age is HPV vaccination highly recommended to prevent cervical cancer?
 - [( )] 15-18 years
 - [( )] 20-25 years
 
-### .
+### Question4
 What is the recommended age for cervical screening, especially in women living with HIV?
 
 - [( )] 18 years
@@ -113,7 +113,7 @@ What is the recommended age for cervical screening, especially in women living w
 - [(X)] 30 years
 - [( )] 35 years
 
-### .
+### Question5
 Which of the following is NOT an important preventive measure against HPV infection?
 
 - [( )] Being a non-smoker or stopping smoking
@@ -121,7 +121,7 @@ Which of the following is NOT an important preventive measure against HPV infect
 - [(X)] Getting annual flu shots
 - [( )] Voluntary male circumcision
 
-### .
+### Question6
 How many HPV vaccines globally protect against the high-risk types 16 and 18, known to cause most cervical cancers?
 
 - [( )] 2
@@ -129,7 +129,7 @@ How many HPV vaccines globally protect against the high-risk types 16 and 18, kn
 - [(X)] 6
 - [( )] 8
 
-### .
+### Question7
 What is the primary reason for performing breast self-examinations (BSE)?
 
 - [( )] To detect abnormal breast cells
@@ -137,7 +137,7 @@ What is the primary reason for performing breast self-examinations (BSE)?
 - [( )] To enhance breast size
 - [(X)] To detect breast lumps early
 
-### .
+### Question8
 What percentage of breast cancers are detected through breast self-examinations (BSE)?
 
 - [( )] 20%
@@ -145,7 +145,7 @@ What percentage of breast cancers are detected through breast self-examinations 
 - [(X)] 40%
 - [( )] 50%
 
-### .
+### Question9
 Which of the following is a common symptom of breast cancer?
 
 - [( )] Fever and chills
