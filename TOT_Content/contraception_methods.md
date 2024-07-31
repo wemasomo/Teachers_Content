@@ -154,71 +154,73 @@ Benefits: Reduces heavy or painful periods without daily pill intake.
 
 
 # Q&A
-What is a common side effect associated with the contraceptive injection containing progesterone?
+
+## Question 1
+    What is a common side effect associated with the contraceptive injection containing progesterone?
 
 - [( )] Weight loss
 - [(X)] Headaches
 - [( )] Increased libido
 - [( )] HeadaReduced appetiteches
 
-# .
-Which contraceptive method is known as a T-shaped device that can be easily removed if pregnancy is desired?
+## Question 2
+    Which contraceptive method is known as a T-shaped device that can be easily removed if pregnancy is desired?
 
 - [( )] Male condom
 - [(X)] Hormonal coil (Mirena IUD)
 - [( )] Female condom
 - [( )] Emergency contraceptive pill
 
-# .
-Which statement about the emergency contraceptive pill is true?
+## Question 3
+    Which statement about the emergency contraceptive pill is true?
 
 - [( )] It provides long-term protection against STIs.
 - [( )] It should be taken before having unprotected sex.
 - [(X)] It can be taken up to 5 days after unprotected sex.
 - [( )] It requires a prescription from a healthcare provider.
 
-# .
-What is a potential side effect of using the non-hormonal coil (copper IUD)?
+## Question 4
+    What is a potential side effect of using the non-hormonal coil (copper IUD)?
 
 - [( )] Weight gain
 - [( )] Decreased menstrual bleeding
 - [( )] Irregular periods for up to six months
 - [(X)] Reduced risk of pelvic infections
 
-# .
-Withdrawal as a method of contraception primarily works by:
+## Question 5
+    Withdrawal as a method of contraception primarily works by:
 
 - [( )] Preventing ovulation
 - [( )] Reducing sperm count
 - [(X)] Preventing sperm from entering the vagina
 - [( )] Affecting the uterine lining
 
-# .
-What is a distinguishing feature of the hormonal coil (Mirena IUD)?
+## Question 6
+    What is a distinguishing feature of the hormonal coil (Mirena IUD)?
 
 - [( )] It is made of copper
 - [(X)] It prevents ovulation
 - [( )] It must be replaced every 13 weeks
 - [( )] It is non-hormonal
 
-# .
-Which contraceptive method does not protect against sexually transmitted infections (STIs)?
+## Question 7
+    Which contraceptive method does not protect against sexually transmitted infections (STIs)?
 
 - [( )] Female condom
 - [( )] Male condom
 - [( )] Emergency contraceptive pill
 - [(X)] Hormonal coil (Mirena IUD)
 
-# .
-What is an important consideration when using the contraceptive injection?
+## Question 8
+    What is an important consideration when using the contraceptive injection?
 
 - [( )] It requires daily intake
 - [( )] It can be self-administered at home
 - [(X)] Fertility may return within a month after discontinuation
 - [( )] It can be used during pregnancy
 
-# .
-Which statement about the pill (oral contraceptive) is true?
+## Question 9
+    Which statement about the pill (oral contraceptive) is true?
 
 - [( )] It protects against STIs
 - [( )] It requires insertion by a healthcare provider
@@ -226,8 +228,8 @@ Which statement about the pill (oral contraceptive) is true?
 - [(X)] It must be taken daily at the same time
 
 
-# .
-What is a potential drawback of using withdrawal as a method of contraception?
+## Question 10
+    What is a potential drawback of using withdrawal as a method of contraception?
 
 - [( )] It requires a prescription
 - [(X)] It is ineffective in preventing pregnancy
