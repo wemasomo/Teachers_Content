@@ -10,7 +10,7 @@ Sexually transmitted infections (STIs) are a significant public health concern w
 
 _What are Sexually Transmitted Infections (STIs)?_
 
-![](https://)
+![Wemasomo Image](https://wemasomo.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshe-masomo.appspot.com%2Fo%2Fimg%252Fexplore%252FHIV.jpg%3Falt%3Dmedia%26token%3D44c9219e-d4f5-40d9-80f4-218ba53c6e06&w=1920&q=75)
 
 STIs are infections transmitted through sexual contact, caused by bacteria, viruses, or parasites. More than 1 million curable STIs are acquired daily worldwide, with the majority being asymptomatic. STIs can also be transmitted during pregnancy, childbirth, breastfeeding, and through infected blood products.
 
@@ -43,6 +43,8 @@ Condoms are the only protection against Chlamydia. It's essential to inform and 
 
 ### 2.2 HIV (Human Immunodeficiency Virus)
 
+![Wemasomo Image](https://wemasomo.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshe-masomo.appspot.com%2Fo%2Fimg%252Fexplore%252Fhiv%252Fhiv%3Falt%3Dmedia%26token%3D0eb92533-aa4c-4d88-ac53-020db7c0fcfa&w=1920&q=75)
+
 1. What is HIV?
 
 HIV damages the immune system, leading to AIDS (Acquired Immune Deficiency Syndrome). It is transmitted primarily through unprotected sexual contact, but also through blood and other body fluids.
@@ -73,7 +75,7 @@ HIV can be prevented by using condoms and through education on safe sexual pract
 
 ### 2.3 Genital Warts (HPV)
 
-![](https://)
+![Wemaosmo Image](https://wemasomo.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshe-masomo.appspot.com%2Fo%2Fimg%252Fexplore%252Fhiv%252Fhuman-papillomavirus%3Falt%3Dmedia%26token%3Df795afc4-f3fe-4e6e-93fe-4978b54e64cd&w=1920&q=75)
 
 * What are Genital Warts?
 
@@ -107,7 +109,7 @@ Condoms reduce the risk, but sores not covered by condoms can still spread the i
 
 ### 2.5 Hepatitis B
 
-![](https://)
+![Wemasomo Image](https://wemasomo.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshe-masomo.appspot.com%2Fo%2Fimg%252Fexplore%252Fhiv%252Fhepatitis%2520b%3Falt%3Dmedia%26token%3D2ce3c6b4-a8df-4bdb-bdc8-a8b93e27ff0e&w=1920&q=75)
 
 * What is Hepatitis B?
 
@@ -127,7 +129,7 @@ Vaccination is highly effective. Safe sex practices and avoiding the sharing of 
 
 ### 2.6 Gonorrhea
 
-![](https://)
+![Wemasomo Image](https://wemasomo.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshe-masomo.appspot.com%2Fo%2Fimg%252Fexplore%252Fhiv%252Fgonnorhea%3Falt%3Dmedia%26token%3Dfc8cfce7-ef95-4a3a-b9b6-af16ee0f2296&w=1920&q=75)
 
 * What is Gonorrhea?
 
