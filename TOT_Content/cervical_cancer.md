@@ -3,7 +3,7 @@
 Cervical cancer is the fourth most common cancer in women globally. Cervical cancer is caused by persistent infection with the human papillomavirus (HPV). Women living with HIV are 6 times more likely to develop cervical cancer compared to women without HIV. 
 
 <script>
-    alert("hello")
+    console.log("Inner data")
 </script>
 
 ### Causes:
