@@ -2,6 +2,10 @@
 ![Masomo Logo](https://wemasomo.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshe-masomo.appspot.com%2Fo%2Fimg%252Fexplore%252Fcancer%3Falt%3Dmedia%26token%3D4acf1384-55bc-4d54-b91a-693f197129cd&w=1920&q=75)
 Cervical cancer is the fourth most common cancer in women globally. Cervical cancer is caused by persistent infection with the human papillomavirus (HPV). Women living with HIV are 6 times more likely to develop cervical cancer compared to women without HIV. 
 
+<script>
+    alert("hello")
+</script>
+
 ### Causes:
 Human papillomavirus (HPV) is a common sexually transmitted infection which can affect the skin, genital area and throat. Almost all sexually active people will be infected at some point in their lives, usually without symptoms.
 In most cases the immune system clears HPV from the body. Persistent infection with high-risk HPV can cause abnormal cells to develop, which go on to become cancer.
@@ -153,6 +157,3 @@ Which of the following is a common symptom of breast cancer?
 - [(X)] Breast lump or thickening
 - [( )] Abdominal pain
 
-<script>
-    alert("hello")
-</script>
