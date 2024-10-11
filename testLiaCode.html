@@ -1,3 +1,6 @@
+<!--
+script: https://raw.githubusercontent.com/wemasomo/Teachers_Content/refs/heads/main/wemasomo_script.js
+-->
 
 # Title
 
@@ -6,10 +9,14 @@
 - [( )] not checked
 - [(X)] checked
 <script>
-    let q = 0
+    let qusetionNo = 0
     let ans = 3
-    let resp = '@input'
-    alert(resp)
-    send.lia("Incorrect please retry ↻", [], false)
+    let resp = parseInt('@input')
+    if(resp === ans){
+        SendResponse(qusetionNo)
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
     "LIA: wait"
 </script>
