@@ -216,10 +216,10 @@ Condoms reduce the risk, and simultaneous treatment of partners is essential.
 ### Question 1: 
 What is the primary mode of transmission for sexually transmitted infections (STIs)?
 
-- [[ ]] Through the air
-- [[ ]] By touching infected surfaces
-- [[X]] Through sexual contact
-- [[ ]] Through contaminated water
+- [( )] Through the air
+- [( )] By touching infected surfaces
+- [(X)] Through sexual contact
+- [( )] Through contaminated water
 <script>
     let qusetionNo = 1
     let ans = 2
@@ -237,81 +237,81 @@ What is the primary mode of transmission for sexually transmitted infections (ST
 ### Question 2: 
 Which of the following is NOT a potential consequence of untreated STIs?
 
-- [[ ]] Neurological and cardiovascular disease
-- [[ ]] Infertility
-- [[X]] Improved immune function
-- [[ ]] Ectopic pregnancy
+- [( )] Neurological and cardiovascular disease
+- [( )] Infertility
+- [(X)] Improved immune function
+- [( )] Ectopic pregnancy
 
 
 ### Question 3: 
 Which symptom is commonly associated with Chlamydia?
 
-- [[ ]] Fever and rash
-- [[X]] Stinging sensation when urinating
-- [[ ]] Severe headache
-- [[ ]] Joint pain
+- [( )] Fever and rash
+- [(X)] Stinging sensation when urinating
+- [( )] Severe headache
+- [( )] Joint pain
 
 
 ### Question 4: 
 How is Chlamydia usually tested for in girls?
 
-- [[ ]] Blood test
-- [[X]] Swab test during a gynecological exam
-- [[ ]] Saliva test
-- [[ ]] Skin biopsy
+- [( )] Blood test
+- [(X)] Swab test during a gynecological exam
+- [( )] Saliva test
+- [( )] Skin biopsy
 
 
 ### Question 5: 
 What is the only method to protect yourself from Chlamydia?
 
-- [[ ]] Avoiding physical contact
-- [[ ]] Vaccination
-- [[X]] Condom use
-- [[ ]] Regular exercise
+- [( )] Avoiding physical contact
+- [( )] Vaccination
+- [(X)] Condom use
+- [( )] Regular exercise
 
 
 ### Question 6: 
 Which fluid does NOT contain enough HIV to infect someone?
 
-- [[ ]] Semen
-- [[ ]] Vaginal fluids
-- [[ ]] Breast milk
-- [[X]] Saliva
+- [( )] Semen
+- [( )] Vaginal fluids
+- [( )] Breast milk
+- [(X)] Saliva
 
 
 ### Question 7: 
 Which of the following is a common symptom in the early stages of HIV infection?
 
-- [[ ]] Skin rash
-- [[ ]] Sore throat
-- [[ ]] Swollen lymph nodes
-- [[X]] All of the above
+- [( )] Skin rash
+- [( )] Sore throat
+- [( )] Swollen lymph nodes
+- [(X)] All of the above
 
 
 ### Question 8: 
 How can HIV/AIDS be prevented during sexual intercourse?
 
-- [[ ]] Using antibiotics
-- [[X]] Using condoms
-- [[ ]] Avoiding exercise
-- [[ ]] Drinking plenty of water
+- [( )] Using antibiotics
+- [(X)] Using condoms
+- [( )] Avoiding exercise
+- [( )] Drinking plenty of water
 
 
 ### Question 9: 
 What is the first sign of Syphilis infection?
 
-- [[ ]] High fever
-- [[X]] Small hard wound
-- [[ ]] Severe headache
-- [[ ]] Intense itching
+- [( )] High fever
+- [(X)] Small hard wound
+- [( )] Severe headache
+- [( )] Intense itching
 
 
 ### Question 10: 
 What is a characteristic symptom of Genital Warts?
 
-- [[ ]] Painless sores
-- [[ ]] Flu-like symptoms
-- [[ ]] Small whitish warts resembling mini-cabbage
-- [[ ]] Itchy rash on palms and soles
+- [( )] Painless sores
+- [( )] Flu-like symptoms
+- [( )] Small whitish warts resembling mini-cabbage
+- [( )] Itchy rash on palms and soles
 
 
