@@ -1,3 +1,7 @@
+<!--
+script: https://raw.githubusercontent.com/wemasomo/Teachers_Content/refs/heads/main/wemasomo_script.js
+-->
+
 # Course Title: Comprehensive Overview of Common Sexually Transmitted Infections (STIs)
 
 __Introduction: Understanding the Importance of STI Awareness__
