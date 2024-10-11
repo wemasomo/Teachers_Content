@@ -2,10 +2,10 @@ const SendResponse = (data)=>{
     window.parent.postMessage(data, '*');
 }
 
-const ValidateResponse = (resp, ans, questionID)=>{
+const ValidateResponse = (resp, ans, questionID, action)=>{
     if(resp === ans){
-        send.lia("true")
+        action("true")
     }else{
-        send.lia("Incorrect please retry ↻", [], false)
+        action("Incorrect please retry ↻", [], false)
     }
 }
