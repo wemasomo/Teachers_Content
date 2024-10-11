@@ -5,3 +5,7 @@ const SendResponse = (data)=>{
     }
     window.parent.postMessage(newData, '*');
 }
+
+const Test = ()=>{
+    alert("Hello")
+}
