@@ -216,6 +216,18 @@ What is the primary mode of transmission for sexually transmitted infections (ST
 - [[ ]] By touching infected surfaces
 - [[X]] Through sexual contact
 - [[ ]] Through contaminated water
+<script>
+    let qusetionNo = 1
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        SendResponse(qusetionNo)
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 2: 
