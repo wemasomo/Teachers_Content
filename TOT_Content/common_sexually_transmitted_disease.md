@@ -225,7 +225,7 @@ What is the primary mode of transmission for sexually transmitted infections (ST
     let ans = 2
     let resp = parseInt('@input')
     if(resp === ans){
-        SendResponse(qusetionNo)
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
         send.lia("true")
     }else{
         send.lia("Incorrect please retry ↻", [], false)
