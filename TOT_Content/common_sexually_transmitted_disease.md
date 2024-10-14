@@ -241,6 +241,18 @@ Which of the following is NOT a potential consequence of untreated STIs?
 - [( )] Infertility
 - [(X)] Improved immune function
 - [( )] Ectopic pregnancy
+<script>
+    let qusetionNo = 2
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 3: 
@@ -250,6 +262,18 @@ Which symptom is commonly associated with Chlamydia?
 - [(X)] Stinging sensation when urinating
 - [( )] Severe headache
 - [( )] Joint pain
+<script>
+    let qusetionNo = 3
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 4: 
@@ -259,6 +283,18 @@ How is Chlamydia usually tested for in girls?
 - [(X)] Swab test during a gynecological exam
 - [( )] Saliva test
 - [( )] Skin biopsy
+<script>
+    let qusetionNo = 4
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 5: 
@@ -268,6 +304,18 @@ What is the only method to protect yourself from Chlamydia?
 - [( )] Vaccination
 - [(X)] Condom use
 - [( )] Regular exercise
+<script>
+    let qusetionNo = 5
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 6: 
@@ -277,6 +325,18 @@ Which fluid does NOT contain enough HIV to infect someone?
 - [( )] Vaginal fluids
 - [( )] Breast milk
 - [(X)] Saliva
+<script>
+    let qusetionNo = 6
+    let ans = 3
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 7: 
@@ -286,6 +346,18 @@ Which of the following is a common symptom in the early stages of HIV infection?
 - [( )] Sore throat
 - [( )] Swollen lymph nodes
 - [(X)] All of the above
+<script>
+    let qusetionNo = 7
+    let ans = 3
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 8: 
@@ -295,6 +367,18 @@ How can HIV/AIDS be prevented during sexual intercourse?
 - [(X)] Using condoms
 - [( )] Avoiding exercise
 - [( )] Drinking plenty of water
+<script>
+    let qusetionNo = 8
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 9: 
@@ -304,6 +388,18 @@ What is the first sign of Syphilis infection?
 - [(X)] Small hard wound
 - [( )] Severe headache
 - [( )] Intense itching
+<script>
+    let qusetionNo = 9
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ### Question 10: 
@@ -311,7 +407,19 @@ What is a characteristic symptom of Genital Warts?
 
 - [( )] Painless sores
 - [( )] Flu-like symptoms
-- [( )] Small whitish warts resembling mini-cabbage
+- [(X)] Small whitish warts resembling mini-cabbage
 - [( )] Itchy rash on palms and soles
+<script>
+    let qusetionNo = 10
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
