@@ -427,6 +427,18 @@ What marks the first day of a woman's menstrual cycle?
 - [(X)] The first day of period bleeding
 - [( )] The middle of the cycle
 - [( )] The day she ovulates
+<script>
+    let qusetionNo = 1
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 2
 Which hormone is primarily responsible for controlling the menstrual cycle?
@@ -435,6 +447,18 @@ Which hormone is primarily responsible for controlling the menstrual cycle?
 - [( )] Insulin
 - [(X)] Estrogen
 - [( )] Melatonin
+<script>
+    let qusetionNo = 2
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 # Question 3
@@ -444,6 +468,18 @@ What happens to the egg if it is not fertilized during the menstrual cycle?
 - [(X)] It is reabsorbed into the body
 - [( )] It continues to grow
 - [( )] It causes the menstrual flow to stop
+<script>
+    let qusetionNo = 3
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 4
 Which of the following is a common cause of irregular periods?
@@ -452,6 +488,18 @@ Which of the following is a common cause of irregular periods?
 - [( )] Balanced diet
 - [(X)] Puberty
 - [( )] Adequate sleep
+<script>
+    let qusetionNo = 4
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 5
 What is a typical symptom of menstrual pain?
@@ -460,6 +508,18 @@ What is a typical symptom of menstrual pain?
 - [(X)] Painful muscle cramps in the abdomen
 - [( )] Nausea
 - [( )] Skin rashes
+<script>
+    let qusetionNo = 5
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 6
 What can help reduce menstrual pain?
@@ -468,6 +528,18 @@ What can help reduce menstrual pain?
 - [( )] Drinking more coffee
 - [( )] Avoiding all exercise
 - [( )] Skipping meals
+<script>
+    let qusetionNo = 6
+    let ans = 0
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 7
 Which color of menstrual blood might indicate an infection?
@@ -476,6 +548,18 @@ Which color of menstrual blood might indicate an infection?
 - [( )] Dark brown
 - [( )] Black
 - [(X)] Orange or grey
+<script>
+    let qusetionNo = 7
+    let ans = 3
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 8
 Which condition involves the growth of tissue similar to the lining of the uterus outside the uterus?
@@ -484,6 +568,18 @@ Which condition involves the growth of tissue similar to the lining of the uteru
 - [(X)] Endometriosis
 - [( )] Menopause
 - [( )] Ovulation disorder
+<script>
+    let qusetionNo = 8
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 9
 What might brown blood or spotting sometimes indicate?
@@ -492,6 +588,18 @@ What might brown blood or spotting sometimes indicate?
 - [(X)] Early pregnancy
 - [( )] Hormonal contraception
 - [( )] Extreme weight gain
+<script>
+    let qusetionNo = 9
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 # Question 10
 What should you do if you experience a new or unusual vaginal discharge?
@@ -500,3 +608,15 @@ What should you do if you experience a new or unusual vaginal discharge?
 - [( )] Change your diet
 - [(X)] Consult a doctor
 - [( )] Exercise more
+<script>
+    let qusetionNo = 10
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>

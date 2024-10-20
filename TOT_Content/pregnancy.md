@@ -373,6 +373,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [( )] 32 weeks
 - [(X)] 40 weeks
 - [( )] 45 weeks
+<script>
+    let qusetionNo = 1
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 2
     During which stage of pregnancy does the heart start beating and limb buds appear?
@@ -381,6 +393,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [(X)] Weeks 5-8
 - [( )] Weeks 9-13
 - [( )] Weeks 14-18
+<script>
+    let qusetionNo = 2
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question3
@@ -390,6 +414,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [(X)] To provide oxygen and nutrients to the developing baby
 - [( )] To support the uterus
 - [( )] To aid in labor contractions
+<script>
+    let qusetionNo = 3
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question4
@@ -399,6 +435,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [( )] Noticeable baby bump
 - [(X)] Nausea and vomiting
 - [( )] Braxton Hicks contractions
+<script>
+    let qusetionNo = 4
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question5
@@ -408,6 +456,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [(X)] Week 14
 - [( )] Week 16
 - [( )] Week 18
+<script>
+    let qusetionNo = 5
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question6
@@ -417,6 +477,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [( )] Reduced nausea
 - [(X)] Severe headache and vision changes
 - [( )] Braxton Hicks contractions
+<script>
+    let qusetionNo = 6
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question7
@@ -426,6 +498,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [( )] About the size of a raspberry
 - [(X)] About the size of a lime
 - [( )] About the size of a cauliflower
+<script>
+    let qusetionNo = 7
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question8
@@ -435,6 +519,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [( )] Severe abdominal pain
 - [(X)] Mild swelling of ankles
 - [( )] Decreased fetal movement
+<script>
+    let qusetionNo = 8
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question9
@@ -444,6 +540,18 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [(X)] Drinking plenty of water
 - [( )] Smoking occasionally
 - [( )] Limiting sleep
+<script>
+    let qusetionNo = 9
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question10
     What is a typical sign that labor may be starting?
@@ -452,3 +560,15 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
 - [(X)] Regular contractions
 - [( )] Reduced energy
 - [( )] Weight loss 
+<script>
+    let qusetionNo = 10
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>

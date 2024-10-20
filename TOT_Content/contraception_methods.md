@@ -162,76 +162,196 @@ Benefits: Reduces heavy or painful periods without daily pill intake.
 - [(X)] Headaches
 - [( )] Increased libido
 - [( )] HeadaReduced appetiteches
+<script>
+    let qusetionNo = 1
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 2
-    Which contraceptive method is known as a T-shaped device that can be easily removed if pregnancy is desired?
+Which contraceptive method is known as a T-shaped device that can be easily removed if pregnancy is desired?
 
 - [( )] Male condom
 - [(X)] Hormonal coil (Mirena IUD)
 - [( )] Female condom
 - [( )] Emergency contraceptive pill
+<script>
+    let qusetionNo = 2
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 3
-    Which statement about the emergency contraceptive pill is true?
+Which statement about the emergency contraceptive pill is true?
 
 - [( )] It provides long-term protection against STIs.
 - [( )] It should be taken before having unprotected sex.
 - [(X)] It can be taken up to 5 days after unprotected sex.
 - [( )] It requires a prescription from a healthcare provider.
+<script>
+    let qusetionNo = 3
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 4
-    What is a potential side effect of using the non-hormonal coil (copper IUD)?
+What is a potential side effect of using the non-hormonal coil (copper IUD)?
 
 - [( )] Weight gain
 - [( )] Decreased menstrual bleeding
 - [( )] Irregular periods for up to six months
 - [(X)] Reduced risk of pelvic infections
+<script>
+    let qusetionNo = 4
+    let ans = 3
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 5
-    Withdrawal as a method of contraception primarily works by:
+Withdrawal as a method of contraception primarily works by:
 
 - [( )] Preventing ovulation
 - [( )] Reducing sperm count
 - [(X)] Preventing sperm from entering the vagina
 - [( )] Affecting the uterine lining
+<script>
+    let qusetionNo = 5
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 6
-    What is a distinguishing feature of the hormonal coil (Mirena IUD)?
+What is a distinguishing feature of the hormonal coil (Mirena IUD)?
 
 - [( )] It is made of copper
 - [(X)] It prevents ovulation
 - [( )] It must be replaced every 13 weeks
 - [( )] It is non-hormonal
+<script>
+    let qusetionNo = 6
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 7
-    Which contraceptive method does not protect against sexually transmitted infections (STIs)?
+Which contraceptive method does not protect against sexually transmitted infections (STIs)?
 
 - [( )] Female condom
 - [( )] Male condom
 - [( )] Emergency contraceptive pill
 - [(X)] Hormonal coil (Mirena IUD)
+<script>
+    let qusetionNo = 7
+    let ans = 3
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 8
-    What is an important consideration when using the contraceptive injection?
+What is an important consideration when using the contraceptive injection?
 
 - [( )] It requires daily intake
 - [( )] It can be self-administered at home
 - [(X)] Fertility may return within a month after discontinuation
 - [( )] It can be used during pregnancy
+<script>
+    let qusetionNo = 8
+    let ans = 2
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 ## Question 9
-    Which statement about the pill (oral contraceptive) is true?
+Which statement about the pill (oral contraceptive) is true?
 
 - [( )] It protects against STIs
 - [( )] It requires insertion by a healthcare provider
 - [( )] It should be taken only during ovulation
 - [(X)] It must be taken daily at the same time
+<script>
+    let qusetionNo = 9
+    let ans = 3
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
 
 
 ## Question 10
-    What is a potential drawback of using withdrawal as a method of contraception?
+What is a potential drawback of using withdrawal as a method of contraception?
 
 - [( )] It requires a prescription
 - [(X)] It is ineffective in preventing pregnancy
 - [( )] It may cause irregular bleeding
 - [( )] It does not require cooperation from a partner
+<script>
+    let qusetionNo = 10
+    let ans = 1
+    let resp = parseInt('@input')
+    if(resp === ans){
+        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        send.lia("true")
+    }else{
+        send.lia("Incorrect please retry ↻", [], false)
+    }
+    "LIA: wait"
+</script>
