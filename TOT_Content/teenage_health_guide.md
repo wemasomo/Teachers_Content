@@ -613,7 +613,7 @@ What should you do if you experience a new or unusual vaginal discharge?
     let ans = 2
     let resp = parseInt('@input')
     if(resp === ans){
-        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        window.parent.postMessage({questionNo: qusetionNo, isComplete: true}, '*');
         send.lia("true")
     }else{
         send.lia("Incorrect please retry ↻", [], false)

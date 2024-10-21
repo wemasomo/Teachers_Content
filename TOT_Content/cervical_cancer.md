@@ -265,8 +265,8 @@ What is the primary cause of cervical cancer?
     let ans = 2
     let resp = parseInt('@input')
     if(resp === ans){
-        window.parent.postMessage({questionNo: qusetionNo}, '*');
-        send.lia("true")
+        window.parent.postMessage({questionNo: qusetionNo, isComplete: true}, '*');
+        send.lia("true"), : 
     }else{
         send.lia("Incorrect please retry ↻", [], false)
     }

@@ -414,7 +414,7 @@ What is a characteristic symptom of Genital Warts?
     let ans = 2
     let resp = parseInt('@input')
     if(resp === ans){
-        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        window.parent.postMessage({questionNo: qusetionNo, isComplete: true}, '*');
         send.lia("true")
     }else{
         send.lia("Incorrect please retry ↻", [], false)

@@ -348,7 +348,7 @@ What is a potential drawback of using withdrawal as a method of contraception?
     let ans = 1
     let resp = parseInt('@input')
     if(resp === ans){
-        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        window.parent.postMessage({questionNo: qusetionNo, isComplete: true}, '*');
         send.lia("true")
     }else{
         send.lia("Incorrect please retry ↻", [], false)

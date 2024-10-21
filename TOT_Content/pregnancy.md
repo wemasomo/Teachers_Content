@@ -565,7 +565,7 @@ While many changes during pregnancy are normal, some symptoms may indicate a pro
     let ans = 1
     let resp = parseInt('@input')
     if(resp === ans){
-        window.parent.postMessage({questionNo: qusetionNo}, '*');
+        window.parent.postMessage({questionNo: qusetionNo, isComplete: true}, '*');
         send.lia("true")
     }else{
         send.lia("Incorrect please retry ↻", [], false)
